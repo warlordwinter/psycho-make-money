@@ -118,8 +118,8 @@ def generate_cms1500_pdf(form_data, output_path):
     c.save()
 
 def main():
-    form_data = load_form_data("src/form-info.json")
-    output_path = "cms1500_form.pdf"
+    form_data = load_form_data("doc/form-info.json")
+    output_path = "output/cms1500_form.pdf"
     generate_cms1500_pdf(form_data, output_path)
     print(f"Generated CMS-1500 form at: {output_path}")
 
