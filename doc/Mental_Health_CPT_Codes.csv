@@ -1,0 +1,32 @@
+CPT Code,Description,Category,Notes
+90791,Psychiatric diagnostic evaluation (no medical services),Diagnostic,Typically one per client
+90792,Psychiatric diagnostic evaluation with medical services,Diagnostic,Used by psychiatrists or prescribing providers
+90832,"Psychotherapy, 30 minutes",Psychotherapy,16–37 minutes
+90834,"Psychotherapy, 45 minutes",Psychotherapy,38–52 minutes
+90837,"Psychotherapy, 60 minutes",Psychotherapy,53+ minutes
+90839,"Psychotherapy for crisis, first 60 minutes",Crisis,30–74 minutes
++90840,"Psychotherapy for crisis, each additional 30 minutes",Crisis Add-on,"75+ minutes, add-on to 90839"
+90846,Family psychotherapy (without patient),Family Therapy,
+90847,Family psychotherapy (with patient),Family Therapy,
+90849,Multiple-family group psychotherapy,Group Therapy,
+90853,Group psychotherapy (non-family),Group Therapy,
++90785,"Interactive complexity (e.g., nonverbal patients, trauma, autism)",Add-on,Used with other psychotherapy codes
++90833,Psychotherapy 30 minutes (with E/M service),Add-on,Used with medication management codes
++90836,Psychotherapy 45 minutes (with E/M service),Add-on,Used with medication management codes
++90838,Psychotherapy 60 minutes (with E/M service),Add-on,Used with medication management codes
+96130,"Psychological testing evaluation, first hour",Testing,
+96131,"Psychological testing evaluation, each additional hour",Testing,
+96136,"Test administration/scoring by provider, first 30 minutes",Testing,
+96137,Each additional 30 minutes (provider),Testing,
+96138,"Test administration/scoring by tech, first 30 minutes",Testing,
+96139,Each additional 30 minutes (tech),Testing,
+96127,"Brief emotional/behavioral assessment (e.g., PHQ-9, GAD-7)",Screening,Often reimbursed
+99202,"E/M service, new patient (15–29 min)",E/M,Prescribers only
+99203,"E/M service, new patient (30–44 min)",E/M,Prescribers only
+99204,"E/M service, new patient (45–59 min)",E/M,Prescribers only
+99205,"E/M service, new patient (60+ min)",E/M,Prescribers only
+99211,"E/M service, established patient (5–9 min)",E/M,Prescribers only
+99212,"E/M service, established patient (10–19 min)",E/M,Prescribers only
+99213,"E/M service, established patient (20–29 min)",E/M,Prescribers only
+99214,"E/M service, established patient (30–39 min)",E/M,Prescribers only
+99215,"E/M service, established patient (40–54 min)",E/M,Prescribers only
